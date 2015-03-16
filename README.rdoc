@@ -1,28 +1,7 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a Jobs Board application modeled on Glassdoor's job posting service. It has the ability to Add, Edit, Destroy jobs postings.
+Each job post is assigned to a category, and we are able to filter between the various categories to see only jobs within that 
+category (For example, only “Full-Time” jobs).  Custom styling was used (no bootstrap).  This application was built as a Ruby on Rails Tutorial.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+More info/tutorials at https://www.crashlearner.com
